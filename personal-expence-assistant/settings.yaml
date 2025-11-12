@@ -1,0 +1,5 @@
+GCLOUD_LOCATION: "us-central1"
+GCLOUD_PROJECT_ID: "app-123"
+BACKEND_URL: "http://localhost:8081/chat"
+STORAGE_BUCKET_NAME: "bucket-name"
+DB_COLLECTION_NAME: "bucket-name"
