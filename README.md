@@ -116,3 +116,4 @@ This repository hosts a full-stack, multimodal AI agent that ingests receipt ima
 - Companion articles: “Going Multimodal with Agent Development Kit (ADK) & Gemini 2.5” (Parts 1 & 2)
 
 ---
+$$ Youtube : https://youtu.be/CNd9Zf2jAjU 
